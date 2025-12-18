@@ -101,18 +101,6 @@ Failure to do so may allow **unauthorized control of your server**.
 
 ## License
 
-MIT License
-Use at your own risk.
-
+use it how ever u want lol but just use it safely 😆
 ```
 
----
-
-If you want, I can also:
-- Harden the plugin and update README accordingly
-- Add a token-based auth example
-- Add a command whitelist section
-- Write a “Production Usage” warning block
-
-Just tell me.
-```
