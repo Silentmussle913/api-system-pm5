@@ -1,0 +1,5 @@
+name: APIRequest
+main: SilentMussle913\API\ApiRequest
+version: 1.0.0
+api: 5.0.0
+author: SilentMussle913
