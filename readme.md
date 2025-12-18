@@ -1,9 +1,8 @@
-Here’s a **clean `README.md`** you can drop straight into GitHub.
-Matches your wording and keeps it simple.
 
----
 
-````md
+
+
+```
 # ApiRequest
 
 A simple TCP-based API plugin for PocketMine-MP that allows external services or other plugins to execute console commands on your server.
