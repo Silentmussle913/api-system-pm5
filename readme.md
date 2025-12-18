@@ -102,5 +102,4 @@ Failure to do so may allow **unauthorized control of your server**.
 ## License
 
 use it how ever u want lol but just use it safely 😆
-```
 
