@@ -2,17 +2,18 @@
 
 
 
-```
+
 # ApiRequest
 
-A simple TCP-based API plugin for PocketMine-MP that allows external services or other plugins to execute console commands on your server.
+A simple TCP-based API plugin for PocketMine-MP that allows external services 
+or other plugins to execute console commands on your server.
 
 ⚠️ **WARNING**  
 This is just a simple TCP based API client to run commands on your server.  
 **Do NOT use this as-is.** Kindly add your own authorization header or security layer.  
 If not protected, **anyone can abuse it**.
 
----
+
 
 ## Features
 
@@ -22,7 +23,7 @@ If not protected, **anyone can abuse it**.
 - Basic crash prevention and input validation
 - No dependencies
 
----
+
 
 ## Configuration
 
